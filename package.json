@@ -1,0 +1,12 @@
+{
+  "name": "daily-coding-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "101.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
